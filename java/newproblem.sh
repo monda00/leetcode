@@ -36,7 +36,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class $TEST_CLASS_NAME {
     @Test
-    void testExampleMethod() {
+    void testSolution() {
         Solution solution = new Solution();
         assertEquals(5, solution.exampleMethod(2, 3));
     }

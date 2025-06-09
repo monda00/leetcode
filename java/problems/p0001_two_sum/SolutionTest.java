@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class SolutionTest {
     @Test
-    public void testBasicCase() {
+    public void testSolution() {
         Solution solution = new Solution();
 
         int[] nums = {2, 7, 11, 15};
